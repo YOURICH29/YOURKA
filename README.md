@@ -1,2 +1,36 @@
 # YOURKA
-YOURKA — YOURich Keyboard Assistant Local Windows keyboard layout assistant for CAD workflows. Prevents decimal separator issues in Rhino and other professional applications.
+
+YOURich Keyboard Assistant
+
+Локальный помощник раскладки клавиатуры Windows
+для CAD и профессиональных приложений.
+
+## Зачем нужен YOURKA
+
+В Rhino, ZBrush, Materialise Magics и других CAD-программах
+русская раскладка меняет поведение NumPad:
+точка превращается в запятую.
+
+YOURKA автоматически включает английскую раскладку
+при переходе в рабочее приложение.
+
+## Возможности
+
+✓ Автоматическое переключение раскладки
+✓ Профили приложений
+✓ Rhino / ZBrush / Magics / ArtCAM
+✓ Работа в трее Windows
+✓ Локально, без серверов и телеметрии
+
+## Дополнительно
+
+✓ Исправление текста в неверной раскладке
+✓ Горячая клавиша Alt+F9
+
+## Установка
+
+...
+
+## Автор
+
+YOURICH
